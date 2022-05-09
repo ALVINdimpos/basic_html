@@ -4,13 +4,12 @@ button {
     height: 92px;
     left: 500px;
     bottom: 579px;
-    
     background: #277C09;
     border-radius: 35px 10px;
   }
 
 .main{
-    background: url(bus.jpg);
+  background: url(bus.png);
 position: absolute;
 width: 1440px;
 height: 936px;
@@ -18,10 +17,9 @@ left: 0px;
 top: 88px;
 background-repeat: no-repeat;
 
-opacity: 0.5;
 }
 .main h1{
-    margin-left: 20%;
+margin-left: 20%;
 position: absolute;
 font-family: 'Inter';
 font-style: normal;
@@ -29,8 +27,7 @@ font-weight: 700;
 font-size: 40px;
 line-height: 85px;
 float:center;
-
-color: black;
+color: white;
 }
     .topnav {
         position: absolute;
