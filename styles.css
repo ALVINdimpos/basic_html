@@ -43,7 +43,7 @@ ul {
 }
 
 .logo span {
-  color: red;
+  color:black;
 }
 
 .main-content {
@@ -168,5 +168,16 @@ a:hover {
 .form{
   flex-flow: column;
   display: flex;
-  text-align: center;
+  text-align: right;
+  padding-right: 0%;
+  width: 0%;
+  top: 50px;
 }
+input[type=text] {
+  width: 500%;
+  padding: 8px 100px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
+
+
